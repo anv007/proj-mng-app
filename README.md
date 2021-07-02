@@ -3,4 +3,4 @@
 A basic project management app for users to login and create different tasks for the team
 
 Link:
-[a link](project-management-app-e3eb1.web.app)
+[App link](project-management-app-e3eb1.web.app)
